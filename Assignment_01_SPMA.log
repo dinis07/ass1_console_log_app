@@ -1,0 +1,13 @@
+﻿  Source.cpp
+c:\users\dinis\desktop\assignment_01_spma\assignment_01_spma\source.cpp(170): warning C4018: '<=': signed/unsigned mismatch
+c:\users\dinis\desktop\assignment_01_spma\assignment_01_spma\source.cpp(180): warning C4018: '<': signed/unsigned mismatch
+c:\users\dinis\desktop\assignment_01_spma\assignment_01_spma\source.cpp(201): warning C4018: '>': signed/unsigned mismatch
+c:\users\dinis\desktop\assignment_01_spma\assignment_01_spma\source.cpp(237): warning C4018: '<': signed/unsigned mismatch
+c:\users\dinis\desktop\assignment_01_spma\assignment_01_spma\source.cpp(266): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\dinis\desktop\assignment_01_spma\assignment_01_spma\source.cpp(290): warning C4018: '<': signed/unsigned mismatch
+c:\users\dinis\desktop\assignment_01_spma\assignment_01_spma\source.cpp(325): warning C4018: '<': signed/unsigned mismatch
+c:\users\dinis\desktop\assignment_01_spma\assignment_01_spma\source.cpp(349): warning C4018: '<': signed/unsigned mismatch
+c:\users\dinis\desktop\assignment_01_spma\assignment_01_spma\source.cpp(354): warning C4018: '<': signed/unsigned mismatch
+c:\users\dinis\desktop\assignment_01_spma\assignment_01_spma\source.cpp(363): warning C4018: '<': signed/unsigned mismatch
+c:\users\dinis\desktop\assignment_01_spma\assignment_01_spma\source.cpp(376): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+  Assignment_01_SPMA.vcxproj -> C:\Users\Dinis\Desktop\Assignment_01_SPMA\Debug\Assignment_01_SPMA.exe
